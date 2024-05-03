@@ -11,9 +11,6 @@ namespace Nikki
         //hi chat
         static void Main(string[] args)
         {
-            int number1;
-            int number2;
-            int Oper;
             Console.ForegroundColor = ConsoleColor.DarkBlue;
             Console.BackgroundColor = ConsoleColor.Gray;
             System.Console.WriteLine("Osha's very cool homestuck classpect generator");
